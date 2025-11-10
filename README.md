@@ -1,4 +1,5 @@
-# LibraryApi
+# LibraryApi (KÜTÜPHANE YÖNETİMİ UYGULAMASI)
+
 
 Kitap, üye ve ödünç (emanet) işlemlerini yöneten RESTful Web API.
 
